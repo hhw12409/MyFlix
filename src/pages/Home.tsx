@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div>
+    <div style={{ backgroundColor: 'whitesmoke', height: '200vh' }}>
       <h1>Hello Home Page</h1>
     </div>
   );
